@@ -1,28 +1,29 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1535744827990">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1536160537491">
   <folder name="css">
     <file name="site_global.css" crc="393442717"/>
-    <file name="semana-2.css" crc="3860105629" ref="semana-2"/>
-    <file name="semana-1.css" crc="4269329739" ref="semana-1"/>
-    <file name="development.css" crc="139071121" ref="development"/>
-    <file name="index.css" crc="4049128956" ref="index"/>
-    <file name="nomq_index.css" crc="297208976" ref="index"/>
-    <file name="nosotros.css" crc="4199218167" ref="nosotros"/>
+    <file name="index.css" crc="420755644" ref="index"/>
+    <file name="nomq_index.css" crc="3943910720" ref="index"/>
+    <file name="semana-3.css" crc="4139827516" ref="semana-3"/>
+    <file name="semana-2.css" crc="4066701" ref="semana-2"/>
+    <file name="development.css" crc="4248492808" ref="development"/>
+    <file name="nosotros.css" crc="4227371628" ref="nosotros"/>
+    <file name="semana-1.css" crc="222899191" ref="semana-1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:development:semana-1:semana-2"/>
-    <file name="museutils.js" crc="3803043152" ref="index:nosotros:development:semana-1:semana-2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:nosotros:development:semana-1:semana-2"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:nosotros:development:semana-1:semana-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
     <file name="webpro.js" crc="242022427" ref="index:semana-1:semana-2"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index:semana-1:semana-2"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index:semana-1:semana-2"/>
     <file name="touchswipe.js" crc="4066113679" ref="index:semana-1:semana-2"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:development:semana-1:semana-2"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:development:semana-1:semana-2"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index:semana-1"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:development:semana-1:semana-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:nosotros:development:semana-1:semana-2"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
   </folder>
   <folder name="images">
     <file name="enviar.png" crc="467490410" ref="index">
@@ -44,7 +45,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:nosotros:development:semana-1:semana-2"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
     <file name="slide3.jpg" crc="4173488106" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -219,7 +220,7 @@
     <file name="mano.jpg" crc="3975780418" seo="true" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="world.jpg" crc="4024944570" seo="true" ref="semana-1">
+    <file name="epidemiologia.jpg" crc="305197881" seo="true" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
     </file>
     <file name="se1di1.jpg" crc="435757768" seo="true" ref="semana-1">
@@ -280,10 +281,21 @@
     <file name="s2d5.jpg" crc="126304702" seo="true" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
+    <file name="u7375-4.png" crc="80186589" ref="semana-3"/>
+    <file name="u7396-4.png" crc="288911377" ref="semana-3"/>
+    <file name="u7385-3.png" crc="124896955" ref="semana-3"/>
+    <file name="u7389-4.png" crc="4011068010" ref="semana-3"/>
+    <file name="u7403-3.png" crc="124896955" ref="semana-3"/>
+    <file name="u7410-4.png" crc="4159539293" ref="semana-3"/>
+    <file name="u7420-3.png" crc="124896955" ref="semana-3"/>
+    <file name="plan de trabajo.jpg" crc="4180290864" seo="true" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3891878344" seo="true" mt="1535738027643" redirect="true"/>
-  <file name="nosotros.html" crc="3780980047" seo="true" mt="1535741073729" redirect="true"/>
-  <file name="development.html" crc="431268129" seo="true" mt="1535536734730" redirect="true"/>
-  <file name="semana-1.html" crc="3898322347" seo="true" mt="1535744725668" redirect="true"/>
-  <file name="semana-2.html" crc="245556247" seo="true" mt="1535743479300" redirect="true"/>
+  <file name="index.html" crc="421974720" seo="true" mt="1536157204731" redirect="true"/>
+  <file name="nosotros.html" crc="3859986676" seo="true" mt="1536158729201" redirect="true"/>
+  <file name="development.html" crc="272858827" seo="true" mt="1536126001610" redirect="true"/>
+  <file name="semana-1.html" crc="518929789" seo="true" mt="1536159750310" redirect="true"/>
+  <file name="semana-2.html" crc="191448168" seo="true" mt="1536160392534" redirect="true"/>
+  <file name="semana-3.html" crc="4218879143" seo="true" mt="1536125971626" redirect="true"/>
 </manifest>

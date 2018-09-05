@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Inicio.com/index.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/nosotros.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,13 +71,13 @@
   </url>
   <url>
     <loc>http://Inicio.com/development.html</loc>
-    <lastmod>2018-08-29</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Inicio.com/semana-1.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -90,7 +90,7 @@
       <image:loc>http://Inicio.com/images/mano.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Inicio.com/images/world.jpg</image:loc>
+      <image:loc>http://Inicio.com/images/epidemiologia.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/se1di1.jpg</image:loc>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-2.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -148,6 +148,15 @@
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/s2d5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Inicio.com/semana-3.html</loc>
+    <lastmod>2018-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/plan%20de%20trabajo.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
