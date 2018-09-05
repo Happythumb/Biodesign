@@ -46,6 +46,12 @@
     </image:image>
   </url>
   <url>
+    <loc>http://Inicio.com/development.html</loc>
+    <lastmod>2018-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Inicio.com/nosotros.html</loc>
     <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,45 +73,6 @@
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/organigrama.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://Inicio.com/development.html</loc>
-    <lastmod>2018-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Inicio.com/semana-1.html</loc>
-    <lastmod>2018-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Inicio.com/images/fondo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/plantilla.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/mano.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/epidemiologia.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di5.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -151,6 +118,39 @@
     </image:image>
   </url>
   <url>
+    <loc>http://Inicio.com/semana-1.html</loc>
+    <lastmod>2018-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fondo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/plantilla.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/mano.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/epidemiologia.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/se1di1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/se1di2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/se1di3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/se1di4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/se1di5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://Inicio.com/semana-3.html</loc>
     <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,5 +158,17 @@
     <image:image>
       <image:loc>http://Inicio.com/images/plan%20de%20trabajo.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/probl1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/probl2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Inicio.com/assets/tendinitis.docx</loc>
+    <lastmod>2018-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

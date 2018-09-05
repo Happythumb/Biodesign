@@ -1,13 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1536160537491">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1536169919149">
   <folder name="css">
     <file name="site_global.css" crc="393442717"/>
-    <file name="index.css" crc="420755644" ref="index"/>
-    <file name="nomq_index.css" crc="3943910720" ref="index"/>
-    <file name="semana-3.css" crc="4139827516" ref="semana-3"/>
-    <file name="semana-2.css" crc="4066701" ref="semana-2"/>
-    <file name="development.css" crc="4248492808" ref="development"/>
-    <file name="nosotros.css" crc="4227371628" ref="nosotros"/>
-    <file name="semana-1.css" crc="222899191" ref="semana-1"/>
+    <file name="index.css" crc="454599085" ref="index"/>
+    <file name="nomq_index.css" crc="62570777" ref="index"/>
+    <file name="semana-3.css" crc="4129548155" ref="semana-3"/>
+    <file name="semana-2.css" crc="153324117" ref="semana-2"/>
+    <file name="development.css" crc="4140828440" ref="development"/>
+    <file name="nosotros.css" crc="165508714" ref="nosotros"/>
+    <file name="semana-1.css" crc="3918943655" ref="semana-1"/>
+  </folder>
+  <folder name="assets">
+    <file name="tendinitis.docx" crc="387596093" seo="true" mt="1534722839000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:development:semana-1:semana-2:semana-3"/>
@@ -88,7 +91,7 @@
     <file name="u927-4.png" crc="80186589" ref="index"/>
     <file name="u447-4.png" crc="288911377" ref="index"/>
     <file name="u467-3.png" crc="124896955" ref="index"/>
-    <file name="u433-4.png" crc="4011068010" ref="index"/>
+    <file name="u433-4.png" crc="475891404" ref="index"/>
     <file name="u464-3.png" crc="124896955" ref="index"/>
     <file name="u441-4.png" crc="4159539293" ref="index"/>
     <file name="u456-3.png" crc="124896955" ref="index"/>
@@ -149,7 +152,7 @@
     </file>
     <file name="u447-42.png" crc="288911377" ref="index"/>
     <file name="u467-32.png" crc="4268364212" ref="index"/>
-    <file name="u433-42.png" crc="4011068010" ref="index"/>
+    <file name="u433-42.png" crc="475891404" ref="index"/>
     <file name="u464-32.png" crc="4268364212" ref="index"/>
     <file name="u441-42.png" crc="4159539293" ref="index"/>
     <file name="u456-32.png" crc="4268364212" ref="index"/>
@@ -160,7 +163,7 @@
     <file name="u927-43.png" crc="4072667723" ref="index"/>
     <file name="u447-43.png" crc="288911377" ref="index"/>
     <file name="u467-33.png" crc="4268364212" ref="index"/>
-    <file name="u433-43.png" crc="4011068010" ref="index"/>
+    <file name="u433-43.png" crc="475891404" ref="index"/>
     <file name="u464-33.png" crc="4268364212" ref="index"/>
     <file name="u441-43.png" crc="4159539293" ref="index"/>
     <file name="u456-33.png" crc="4268364212" ref="index"/>
@@ -175,7 +178,7 @@
     <file name="u3701-4.png" crc="80186589" ref="nosotros"/>
     <file name="u3806-4.png" crc="288911377" ref="nosotros"/>
     <file name="u3787-3.png" crc="124896955" ref="nosotros"/>
-    <file name="u3780-4.png" crc="4011068010" ref="nosotros"/>
+    <file name="u3780-4.png" crc="475891404" ref="nosotros"/>
     <file name="u3799-3.png" crc="124896955" ref="nosotros"/>
     <file name="u3792-4.png" crc="4159539293" ref="nosotros"/>
     <file name="u3772-3.png" crc="124896955" ref="nosotros"/>
@@ -200,14 +203,14 @@
     <file name="u4672-4.png" crc="80186589" ref="development"/>
     <file name="u4678-4.png" crc="288911377" ref="development"/>
     <file name="u4686-3.png" crc="124896955" ref="development"/>
-    <file name="u4692-4.png" crc="4011068010" ref="development"/>
+    <file name="u4692-4.png" crc="475891404" ref="development"/>
     <file name="u4700-3.png" crc="124896955" ref="development"/>
     <file name="u4708-4-a.png" crc="4159539293" ref="development"/>
     <file name="u4716-3.png" crc="124896955" ref="development"/>
     <file name="u5190-4.png" crc="80186589" ref="semana-1"/>
     <file name="u5226-4.png" crc="288911377" ref="semana-1"/>
     <file name="u5212-3.png" crc="124896955" ref="semana-1"/>
-    <file name="u5205-4.png" crc="4011068010" ref="semana-1"/>
+    <file name="u5205-4.png" crc="475891404" ref="semana-1"/>
     <file name="u5217-3.png" crc="124896955" ref="semana-1"/>
     <file name="u5231-4.png" crc="4159539293" ref="semana-1"/>
     <file name="u5197-3.png" crc="124896955" ref="semana-1"/>
@@ -241,7 +244,7 @@
     <file name="u5345-4.png" crc="80186589" ref="semana-2"/>
     <file name="u5368-4.png" crc="288911377" ref="semana-2"/>
     <file name="u5374-3.png" crc="124896955" ref="semana-2"/>
-    <file name="u5351-4.png" crc="4011068010" ref="semana-2"/>
+    <file name="u5351-4.png" crc="475891404" ref="semana-2"/>
     <file name="u5380-3.png" crc="124896955" ref="semana-2"/>
     <file name="u5358-4.png" crc="4159539293" ref="semana-2"/>
     <file name="u5390-3.png" crc="124896955" ref="semana-2"/>
@@ -291,11 +294,17 @@
     <file name="plan de trabajo.jpg" crc="4180290864" seo="true" ref="semana-3">
       <caption webpage="semana-3" alt=""/>
     </file>
+    <file name="probl1.jpg" crc="106802873" seo="true" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
+    <file name="probl2.jpg" crc="284849258" seo="true" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="421974720" seo="true" mt="1536157204731" redirect="true"/>
-  <file name="nosotros.html" crc="3859986676" seo="true" mt="1536158729201" redirect="true"/>
-  <file name="development.html" crc="272858827" seo="true" mt="1536126001610" redirect="true"/>
-  <file name="semana-1.html" crc="518929789" seo="true" mt="1536159750310" redirect="true"/>
-  <file name="semana-2.html" crc="191448168" seo="true" mt="1536160392534" redirect="true"/>
-  <file name="semana-3.html" crc="4218879143" seo="true" mt="1536125971626" redirect="true"/>
+  <file name="index.html" crc="133285207" seo="true" mt="1536166826213" redirect="true"/>
+  <file name="nosotros.html" crc="424762335" seo="true" mt="1536166867115" redirect="true"/>
+  <file name="development.html" crc="3944522002" seo="true" mt="1536168715849" redirect="true"/>
+  <file name="semana-1.html" crc="4236108723" seo="true" mt="1536166993191" redirect="true"/>
+  <file name="semana-2.html" crc="229577390" seo="true" mt="1536167011987" redirect="true"/>
+  <file name="semana-3.html" crc="3762141327" seo="true" mt="1536169832215" redirect="true"/>
 </manifest>
