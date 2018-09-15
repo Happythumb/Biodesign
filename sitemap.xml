@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Inicio.com/index.html</loc>
-    <lastmod>2018-09-09</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,14 +46,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/semana-4.html</loc>
-    <lastmod>2018-09-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Inicio.com/semana-3.html</loc>
-    <lastmod>2018-09-12</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,95 +55,56 @@
     </image:image>
   </url>
   <url>
+    <loc>http://Inicio.com/semana-4.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/ferula%20-%20copia.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/manozapana.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/manocesar.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/manovictor.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://Inicio.com/semana-2.html</loc>
-    <lastmod>2018-09-12</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://Inicio.com/images/idea2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Inicio.com/images/est1.jpg</image:loc>
+      <image:loc>http://Inicio.com/images/estado%20del%20arte3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/estado%20del%20arte2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/est2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Inicio.com/images/imag3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/imag4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/15.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/s2d1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/s2d2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/s2d3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/s2d4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/s2d5.jpg</image:loc>
+      <image:loc>http://Inicio.com/images/requerimientos.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://Inicio.com/semana-1.html</loc>
-    <lastmod>2018-09-12</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://Inicio.com/images/fondo.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/plantilla.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/mano.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/epidemiologia.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/se1di5.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://Inicio.com/development.html</loc>
-    <lastmod>2018-09-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Inicio.com/images/dolor%202.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://Inicio.com/nosotros.html</loc>
-    <lastmod>2018-09-09</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -172,8 +127,17 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--customer-preloader-v2.mulib</loc>
-    <lastmod>2015-05-31</lastmod>
+    <loc>http://Inicio.com/development.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/dolor%202.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Inicio.com/assets/background_video.mulib</loc>
+    <lastmod>2015-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -334,14 +298,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/audio_player.mulib</loc>
-    <lastmod>2015-09-22</lastmod>
+    <loc>http://Inicio.com/assets/-mr--custom-highlight-color-v2.mulib</loc>
+    <lastmod>2015-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/background_video.mulib</loc>
-    <lastmod>2015-10-02</lastmod>
+    <loc>http://Inicio.com/assets/-mr--customer-preloader-v2.mulib</loc>
+    <lastmod>2015-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -508,14 +472,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--classic-blue-contact-form.mulib</loc>
-    <lastmod>2013-11-03</lastmod>
+    <loc>http://Inicio.com/assets/audio_player.mulib</loc>
+    <lastmod>2015-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--custom-highlight-color-v2.mulib</loc>
-    <lastmod>2015-05-31</lastmod>
+    <loc>http://Inicio.com/assets/-mr--classic-blue-contact-form.mulib</loc>
+    <lastmod>2013-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -856,6 +820,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://Inicio.com/assets/tijera.mp4</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Inicio.com/assets/--mt---toolbox---ecwid-ecommerce-store-(11.3).mulib</loc>
     <lastmod>2015-03-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -880,14 +850,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/tendinitis.docx</loc>
-    <lastmod>2018-08-19</lastmod>
+    <loc>http://Inicio.com/assets/fontawsome-(icons).mulib</loc>
+    <lastmod>2015-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/fontawsome-(icons).mulib</loc>
-    <lastmod>2015-09-24</lastmod>
+    <loc>http://Inicio.com/assets/tendinitis.docx</loc>
+    <lastmod>2018-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
