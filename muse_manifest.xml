@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1537365132173">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1537374687225">
   <folder name="css">
     <file name="site_global.css" crc="393442717"/>
     <file name="semana-4.css" crc="492293382" ref="semana-4"/>
@@ -6,12 +6,12 @@
     <file name="index.css" crc="4010755195" ref="index"/>
     <file name="nomq_index.css" crc="4232096519" ref="index"/>
     <file name="nosotros.css" crc="3952338836" ref="nosotros"/>
-    <file name="hackaton.css" crc="3996430995" ref="hackaton"/>
-    <file name="nomq_hackaton.css" crc="4222973186" ref="hackaton"/>
+    <file name="hackaton.css" crc="3789269762" ref="hackaton"/>
+    <file name="nomq_hackaton.css" crc="326630602" ref="hackaton"/>
     <file name="semana-2.css" crc="4205110147" ref="semana-2"/>
     <file name="semana-3.css" crc="3868718336" ref="semana-3"/>
     <file name="nomq_semana-3.css" crc="204474971" ref="semana-3"/>
-    <file name="development.css" crc="4012162082" ref="development"/>
+    <file name="development.css" crc="147285344" ref="development"/>
   </folder>
   <folder name="assets">
     <file name="tendinitis.docx" crc="387596093" seo="true" mt="1534722839000"/>
@@ -136,6 +136,7 @@
     <file name="excel.xlsx" crc="509581324" seo="true" mt="1536524961000"/>
     <file name="plan-de-trabajo-team-2-(2).xlsx" crc="4166987669" seo="true" mt="1536535862000"/>
     <file name="tijera.mp4" crc="237957379" seo="true" mt="1536992703000"/>
+    <file name="insides.xlsx" crc="120773471" seo="true" mt="1537373291000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:development:semana-1:semana-2:semana-3:semana-4:hackaton"/>
@@ -457,6 +458,38 @@
     <file name="41916775_524153268009289_424622276726489088_o-crop-u16783.jpg" crc="263535141" seo="true" ref="hackaton">
       <caption webpage="hackaton" alt=""/>
     </file>
+    <file name="20180916_063332.jpg" crc="4244383917" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+    </file>
+    <file name="20180916_081011.jpg" crc="4004422132" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+    </file>
+    <file name="20180916_084120.jpg" crc="3943798988" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+    </file>
+    <file name="20180916_083502.jpg" crc="206740410" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+      <caption webpage="hackaton" alt=""/>
+    </file>
     <file name="u16638-42.png" crc="80186589" ref="hackaton"/>
     <file name="u16673-42.png" crc="288911377" ref="hackaton"/>
     <file name="u16679-42.png" crc="4121924237" ref="hackaton"/>
@@ -467,13 +500,53 @@
     <file name="41916775_524153268009289_424622276726489088_o-crop-u167832.jpg" crc="263535141" seo="true" ref="hackaton">
       <caption webpage="hackaton" alt=""/>
     </file>
+    <file name="u16638-43.png" crc="80186589" ref="hackaton"/>
+    <file name="u16673-43.png" crc="288911377" ref="hackaton"/>
+    <file name="u16679-43.png" crc="4121924237" ref="hackaton"/>
+    <file name="u16647-43.png" crc="475891404" ref="hackaton"/>
+    <file name="u16659-43.png" crc="4159539293" ref="hackaton"/>
+    <file name="u16651-33.png" crc="124896955" ref="hackaton"/>
+    <file name="u16669-33.png" crc="124896955" ref="hackaton"/>
+    <file name="41916775_524153268009289_424622276726489088_o-crop-u167833.jpg" crc="263535141" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+    </file>
+    <file name="u16638-44.png" crc="80186589" ref="hackaton"/>
+    <file name="u16673-44.png" crc="288911377" ref="hackaton"/>
+    <file name="u16679-44.png" crc="4121924237" ref="hackaton"/>
+    <file name="u16647-44.png" crc="475891404" ref="hackaton"/>
+    <file name="u16659-44.png" crc="4159539293" ref="hackaton"/>
+    <file name="u16651-34.png" crc="124896955" ref="hackaton"/>
+    <file name="u16669-34.png" crc="124896955" ref="hackaton"/>
+    <file name="41916775_524153268009289_424622276726489088_o-crop-u167834.jpg" crc="263535141" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+    </file>
+    <file name="u16638-45.png" crc="80186589" ref="hackaton"/>
+    <file name="u16673-45.png" crc="288911377" ref="hackaton"/>
+    <file name="u16679-45.png" crc="4121924237" ref="hackaton"/>
+    <file name="u16647-45.png" crc="475891404" ref="hackaton"/>
+    <file name="u16659-45.png" crc="4159539293" ref="hackaton"/>
+    <file name="u16651-35.png" crc="124896955" ref="hackaton"/>
+    <file name="u16669-35.png" crc="124896955" ref="hackaton"/>
+    <file name="41916775_524153268009289_424622276726489088_o-crop-u167835.jpg" crc="263535141" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+    </file>
+    <file name="u16673-46.png" crc="288911377" ref="hackaton"/>
+    <file name="u16679-46.png" crc="4121924237" ref="hackaton"/>
+    <file name="u16647-46.png" crc="475891404" ref="hackaton"/>
+    <file name="u16659-46.png" crc="4159539293" ref="hackaton"/>
+    <file name="u16651-36.png" crc="124896955" ref="hackaton"/>
+    <file name="u16669-36.png" crc="124896955" ref="hackaton"/>
+    <file name="u16638-46.png" crc="80186589" ref="hackaton"/>
+    <file name="41916775_524153268009289_424622276726489088_o-crop-u167836.jpg" crc="263535141" seo="true" ref="hackaton">
+      <caption webpage="hackaton" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="368960881" seo="true" mt="1536995893495" redirect="true"/>
+  <file name="index.html" crc="458009954" seo="true" mt="1536995893495" redirect="true"/>
   <file name="nosotros.html" crc="3944745262" seo="true" mt="1536995991099" redirect="true"/>
-  <file name="development.html" crc="3889664637" seo="true" mt="1537364961095" redirect="true"/>
+  <file name="development.html" crc="3770869355" seo="true" mt="1537369612500" redirect="true"/>
   <file name="semana-1.html" crc="3766128477" seo="true" mt="1536995942281" redirect="true"/>
   <file name="semana-2.html" crc="4194618236" seo="true" mt="1537035565936" redirect="true"/>
-  <file name="semana-3.html" crc="376490936" seo="true" mt="1536995961441" redirect="true"/>
+  <file name="semana-3.html" crc="4261442034" seo="true" mt="1536995961441" redirect="true"/>
   <file name="semana-4.html" crc="3986463721" seo="true" mt="1537336310208" redirect="true"/>
-  <file name="hackaton.html" crc="3939585631" seo="true" mt="1537362585422" redirect="true"/>
+  <file name="hackaton.html" crc="472666342" seo="true" mt="1537374560951" redirect="true"/>
 </manifest>
