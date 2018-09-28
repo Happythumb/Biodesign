@@ -46,27 +46,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/semana-6.html</loc>
-    <lastmod>2018-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Inicio.com/images/myo-armband-800x800-crop-u19080.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/sensor%20bluetooth-crop-u19093.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/arduino-uno-crop-u19144.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/rapsberry-crop-u19246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/arduino%20nano.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://Inicio.com/hackaton.html</loc>
     <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,6 +79,27 @@
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/41916775_524153268009289_424622276726489088_o-crop-u167836.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Inicio.com/semana-6.html</loc>
+    <lastmod>2018-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/myo-armband-800x800-crop-u19080.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/sensor%20bluetooth-crop-u19093.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/arduino-uno-crop-u19144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/rapsberry-crop-u19246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/arduino%20nano.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -160,15 +160,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/development.html</loc>
-    <lastmod>2018-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Inicio.com/images/dolor%202.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://Inicio.com/nosotros.html</loc>
     <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,8 +184,17 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--full-screen-video-v2.mulib</loc>
-    <lastmod>2015-05-31</lastmod>
+    <loc>http://Inicio.com/development.html</loc>
+    <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/dolor%202.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Inicio.com/assets/binarylilyshopnowbuttons.mulib</loc>
+    <lastmod>2015-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -355,14 +355,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/before---after.mulib</loc>
-    <lastmod>2015-06-25</lastmod>
+    <loc>http://Inicio.com/assets/-mr--flat-outline-button-set.mulib</loc>
+    <lastmod>2013-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/binarylilyshopnowbuttons.mulib</loc>
-    <lastmod>2015-09-14</lastmod>
+    <loc>http://Inicio.com/assets/-mr--full-screen-video-v2.mulib</loc>
+    <lastmod>2015-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -529,8 +529,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/google-analytics-lite.mulib</loc>
-    <lastmod>2015-09-24</lastmod>
+    <loc>http://Inicio.com/assets/before---after.mulib</loc>
+    <lastmod>2015-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -541,8 +541,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--flat-outline-button-set.mulib</loc>
-    <lastmod>2013-11-18</lastmod>
+    <loc>http://Inicio.com/assets/hover-text-indent.mulib</loc>
+    <lastmod>2015-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -878,12 +878,6 @@
   </url>
   <url>
     <loc>http://Inicio.com/assets/dise%C3%B1o-modular.xlsx</loc>
-    <lastmod>2018-09-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Inicio.com/assets/insides-(2).xlsx</loc>
     <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -925,6 +919,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://Inicio.com/assets/google-analytics-lite.mulib</loc>
+    <lastmod>2015-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Inicio.com/assets/tendinitis.docx</loc>
     <lastmod>2018-08-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -933,12 +933,6 @@
   <url>
     <loc>http://Inicio.com/assets/header_page_qooqee_widgets.mulib</loc>
     <lastmod>2015-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Inicio.com/assets/hover-text-indent.mulib</loc>
-    <lastmod>2015-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
