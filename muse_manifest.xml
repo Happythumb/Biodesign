@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1537983772917">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1538157265742">
   <folder name="css">
     <file name="site_global.css" crc="393442717"/>
-    <file name="semana-2.css" crc="4205110147" ref="semana-2"/>
-    <file name="nosotros.css" crc="109444353" ref="nosotros"/>
-    <file name="hackaton.css" crc="3900851417" ref="hackaton"/>
-    <file name="nomq_hackaton.css" crc="326630602" ref="hackaton"/>
-    <file name="semana-1.css" crc="344807525" ref="semana-1"/>
-    <file name="semana-6.css" crc="4096318548" ref="semana-6"/>
-    <file name="semana-3.css" crc="3937550060" ref="semana-3"/>
-    <file name="nomq_semana-3.css" crc="204474971" ref="semana-3"/>
     <file name="development.css" crc="3997077349" ref="development"/>
-    <file name="index.css" crc="4098214367" ref="index"/>
+    <file name="semana-1.css" crc="344807525" ref="semana-1"/>
+    <file name="index.css" crc="3805418124" ref="index"/>
     <file name="nomq_index.css" crc="4232096519" ref="index"/>
-    <file name="semana-4.css" crc="3823014777" ref="semana-4"/>
+    <file name="semana-2.css" crc="170634598" ref="semana-2"/>
+    <file name="hackaton.css" crc="4252198009" ref="hackaton"/>
+    <file name="nomq_hackaton.css" crc="4264324322" ref="hackaton"/>
+    <file name="nosotros.css" crc="497435181" ref="nosotros"/>
+    <file name="semana-4.css" crc="4063333842" ref="semana-4"/>
+    <file name="semana-6.css" crc="4029965539" ref="semana-6"/>
+    <file name="semana-3.css" crc="3765028683" ref="semana-3"/>
+    <file name="nomq_semana-3.css" crc="204474971" ref="semana-3"/>
   </folder>
   <folder name="assets">
     <file name="tendinitis.docx" crc="387596093" seo="true" mt="1534722839000"/>
@@ -139,6 +139,7 @@
     <file name="tijera.mp4" crc="237957379" seo="true" mt="1536992703000"/>
     <file name="insides.xlsx" crc="120773471" seo="true" mt="1537373291000"/>
     <file name="diseño-modular.xlsx" crc="3963854715" seo="true" mt="1537981197000"/>
+    <file name="insides-(2).xlsx" crc="4119520588" seo="true" mt="1538156635000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:development:semana-1:semana-2:semana-3:semana-4:hackaton:semana-6"/>
@@ -568,13 +569,13 @@
       <caption webpage="semana-6" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3959800658" seo="true" mt="1536995893495" redirect="true"/>
-  <file name="nosotros.html" crc="3836206027" seo="true" mt="1536995991099" redirect="true"/>
+  <file name="index.html" crc="3866014455" seo="true" mt="1536995893495" redirect="true"/>
+  <file name="nosotros.html" crc="485607580" seo="true" mt="1536995991099" redirect="true"/>
   <file name="development.html" crc="350299663" seo="true" mt="1537973132215" redirect="true"/>
-  <file name="semana-1.html" crc="4094699450" seo="true" mt="1536995942281" redirect="true"/>
-  <file name="semana-2.html" crc="3959157588" seo="true" mt="1537035565936" redirect="true"/>
-  <file name="semana-3.html" crc="4166357598" seo="true" mt="1536995961441" redirect="true"/>
-  <file name="semana-4.html" crc="115499778" seo="true" mt="1537972805220" redirect="true"/>
-  <file name="hackaton.html" crc="165511660" seo="true" mt="1537374560951" redirect="true"/>
-  <file name="semana-6.html" crc="3851583793" seo="true" mt="1537983661290" redirect="true"/>
+  <file name="semana-1.html" crc="3766128477" seo="true" mt="1536995942281" redirect="true"/>
+  <file name="semana-2.html" crc="3818733130" seo="true" mt="1537035565936" redirect="true"/>
+  <file name="semana-3.html" crc="3777981645" seo="true" mt="1536995961441" redirect="true"/>
+  <file name="semana-4.html" crc="3774130187" seo="true" mt="1537972805220" redirect="true"/>
+  <file name="hackaton.html" crc="3956431139" seo="true" mt="1538156917003" redirect="true"/>
+  <file name="semana-6.html" crc="24588600" seo="true" mt="1537983661290" redirect="true"/>
 </manifest>
