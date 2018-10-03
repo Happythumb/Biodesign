@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-7.html</loc>
-    <lastmod>2018-10-02</lastmod>
+    <lastmod>2018-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -68,21 +68,9 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-6.html</loc>
-    <lastmod>2018-10-02</lastmod>
+    <lastmod>2018-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Inicio.com/images/sensor%20bluetooth-crop-u19093.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/arduino-uno-crop-u19144.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/rapsberry-crop-u19246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/arduino%20nano.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/entradas%20y%20salidas%20del%20sistema.jpg</image:loc>
     </image:image>
@@ -91,9 +79,6 @@
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/evaluacion%20de%20conceptos.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/myo-armband-800x800-crop-u19080.jpg</image:loc>
     </image:image>
   </url>
   <url>
