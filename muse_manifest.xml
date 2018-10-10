@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1539133218393">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inicio.com" resolutions="1x" timestamp="1539191134902">
   <folder name="css">
     <file name="site_global.css" crc="393442717"/>
-    <file name="semana-8.css" crc="417738782" ref="semana-8"/>
+    <file name="semana-8.css" crc="3871643075" ref="semana-8"/>
     <file name="semana-7.css" crc="46202337" ref="semana-7"/>
     <file name="nosotros.css" crc="3952338836" ref="nosotros"/>
     <file name="development.css" crc="3954190729" ref="development"/>
@@ -614,19 +614,22 @@
     <file name="s8d.jpg" crc="3862408250" seo="true" ref="semana-8">
       <caption webpage="semana-8" alt=""/>
     </file>
-    <file name="inventors8.jpg" crc="3838055358" seo="true" ref="semana-8">
+    <file name="ferila.jpg" crc="118230221" seo="true" ref="semana-8">
+      <caption webpage="semana-8" alt=""/>
+    </file>
+    <file name="exoskelethon.jpg" crc="3865892090" seo="true" ref="semana-8">
       <caption webpage="semana-8" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4018294219" seo="true" mt="1536995893495" redirect="true"/>
+  <file name="index.html" crc="4030428203" seo="true" mt="1536995893495" redirect="true"/>
   <file name="nosotros.html" crc="3767691785" seo="true" mt="1536995991099" redirect="true"/>
   <file name="development.html" crc="3838042688" seo="true" mt="1539130358990" redirect="true"/>
   <file name="semana-1.html" crc="103422514" seo="true" mt="1538515525625" redirect="true"/>
   <file name="semana-2.html" crc="4031283419" seo="true" mt="1539037651687" redirect="true"/>
-  <file name="semana-3.html" crc="96622025" seo="true" mt="1539110091462" redirect="true"/>
+  <file name="semana-3.html" crc="4099477286" seo="true" mt="1539110091462" redirect="true"/>
   <file name="semana-4.html" crc="273107570" seo="true" mt="1539116774315" redirect="true"/>
-  <file name="hackaton.html" crc="3955134196" seo="true" mt="1538528771378" redirect="true"/>
+  <file name="hackaton.html" crc="4000695751" seo="true" mt="1538528771378" redirect="true"/>
   <file name="semana-6.html" crc="306429701" seo="true" mt="1539126866253" redirect="true"/>
   <file name="semana-7.html" crc="4163853" seo="true" mt="1539125638717" redirect="true"/>
-  <file name="semana-8.html" crc="3856671120" seo="true" mt="1539130421214" redirect="true"/>
+  <file name="semana-8.html" crc="3884338823" seo="true" mt="1539191054084" redirect="true"/>
 </manifest>
