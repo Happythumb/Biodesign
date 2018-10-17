@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-8.html</loc>
-    <lastmod>2018-10-16</lastmod>
+    <lastmod>2018-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -84,7 +84,13 @@
       <image:loc>http://Inicio.com/images/ferila.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Inicio.com/images/exoskelethon.jpg</image:loc>
+      <image:loc>http://Inicio.com/images/semana81.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/semana82.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/semana83.jpg</image:loc>
     </image:image>
   </url>
   <url>
