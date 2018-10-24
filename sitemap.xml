@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-9.html</loc>
-    <lastmod>2018-10-17</lastmod>
+    <lastmod>2018-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,6 +61,111 @@
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/corredera.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Inicio.com/semana-10.html</loc>
+    <lastmod>2018-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/prototipo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/img_20181020_111619.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/estres1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/estres2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/estres3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fabricacion1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fabricacion3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fabricacion4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fabricacion5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fabricacion6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fabricacion7-crop-u23604.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/fabricacion8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/descanso%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/descanso%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/descanso%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/corte1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/corte2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/corte3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo0-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo0-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo0-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200074-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200074-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200074-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200109-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200109-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200109-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200139%20-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200139%20-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200139%20-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200209-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200209-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/tiempo%200209-3.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -235,15 +340,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/development.html</loc>
-    <lastmod>2018-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Inicio.com/images/dolor%202.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://Inicio.com/nosotros.html</loc>
     <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -268,14 +364,17 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--pro-infocycler-2---laptop.mulib</loc>
-    <lastmod>2014-01-31</lastmod>
+    <loc>http://Inicio.com/development.html</loc>
+    <lastmod>2018-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Inicio.com/images/dolor%202.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--pro-infocycler-3---phone.mulib</loc>
-    <lastmod>2014-01-31</lastmod>
+    <loc>http://Inicio.com/assets/botones-sencillos.mulib</loc>
+    <lastmod>2013-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -430,14 +529,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/boton-letrero.mulib</loc>
-    <lastmod>2013-11-18</lastmod>
+    <loc>http://Inicio.com/assets/-mr--pro-infocycler-2---laptop.mulib</loc>
+    <lastmod>2014-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/botones-sencillos.mulib</loc>
-    <lastmod>2013-11-18</lastmod>
+    <loc>http://Inicio.com/assets/-mr--pro-infocycler-3---phone.mulib</loc>
+    <lastmod>2014-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -598,8 +697,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/-mr--green-3d-button-set.mulib</loc>
-    <lastmod>2013-11-03</lastmod>
+    <loc>http://Inicio.com/assets/boton-letrero.mulib</loc>
+    <lastmod>2013-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -946,6 +1045,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://Inicio.com/assets/-mr--green-3d-button-set.mulib</loc>
+    <lastmod>2013-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Inicio.com/assets/-mr--full-screen-video-v2.mulib</loc>
     <lastmod>2015-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -994,14 +1099,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/tendinitis.docx</loc>
-    <lastmod>2018-08-19</lastmod>
+    <loc>http://Inicio.com/assets/hover-text-indent.mulib</loc>
+    <lastmod>2015-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Inicio.com/assets/hover-text-indent.mulib</loc>
-    <lastmod>2015-07-31</lastmod>
+    <loc>http://Inicio.com/assets/tendinitis.docx</loc>
+    <lastmod>2018-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
