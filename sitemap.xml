@@ -47,11 +47,29 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-13.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://Inicio.com/images/evalucion.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/newcor.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/newac.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/act1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/act2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/diagra.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/diagra2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -62,7 +80,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-12.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,10 +89,19 @@
     <image:image>
       <image:loc>http://Inicio.com/images/corredera%201-crop-u27557.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/corre.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/almo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/act.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://Inicio.com/semana-11.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -83,7 +110,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-10.html</loc>
-    <lastmod>2018-11-07</lastmod>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -188,7 +215,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-9.html</loc>
-    <lastmod>2018-10-31</lastmod>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
