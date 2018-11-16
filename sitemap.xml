@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-13.html</loc>
-    <lastmod>2018-11-14</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-12.html</loc>
-    <lastmod>2018-11-14</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,16 +101,25 @@
   </url>
   <url>
     <loc>http://Inicio.com/semana-11.html</loc>
-    <lastmod>2018-11-14</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://Inicio.com/images/prototipo.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/integra1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/integra2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Inicio.com/images/integra3.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://Inicio.com/semana-10.html</loc>
-    <lastmod>2018-11-14</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -139,9 +148,6 @@
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/fabricacion6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Inicio.com/images/fabricacion7-crop-u23604.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Inicio.com/images/fabricacion8.jpg</image:loc>
@@ -425,7 +431,7 @@
   </url>
   <url>
     <loc>http://Inicio.com/development.html</loc>
-    <lastmod>2018-11-13</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
